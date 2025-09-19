@@ -2,9 +2,9 @@
 
 **`Software Engineering Student`**
 
-Hi, I'm Şevval Ahıshalı. I'm a first-year Software Engineering student at Yaşar University. I have completed basic programming courses in C and Java. Besides that, I'm also learning Python on my own and planning to focus on data structures and algorithms during the summer.
+Hi, I'm Şevval Ahıshalı. I'm a second-year Software Engineering student. I work on backend systems using Python, C and Java.
 
-On my GitHub profile, you can find my school projects, Python practice codes, and future work related to data structures and algorithms. Follow along to see my progress!
+On my GitHub profile, you can find my projects, practice problems, and everything I build along the way. Follow along to see my progress!
 
 ---
 
