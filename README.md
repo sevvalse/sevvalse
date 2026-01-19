@@ -2,8 +2,7 @@
 
 **`Software Engineering Student`**
 
-Hi, I'm Şevval Ahıshalı. I'm a second-year Software Engineering student. I focus on backend development using Python. Recently, I’ve worked on automation and web-based applications that combine AI tools with practical engineering solutions.
-
+I am a Software Engineering undergraduate and backend developer specializing in Python and automation. I build scalable web applications and engineering tools that solve real-world problems.
 On my GitHub profile, you can find my projects, practice problems, and everything I build along the way. Follow along to see my progress!
 
 ---
